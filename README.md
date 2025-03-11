@@ -13,6 +13,15 @@ Compressing large text files is a challenge in applications such as data storage
 # Justification 
 Parallelizing the BWT can significantly improve performance, making use of MPI and Open MP for matrices. That enables its use in applications that handle large volumes of data, providing a faster and safer tool to compress data.
 
+# General Objective
+Parallelize the BWT with Apply Move-to-Front and Huffman Encoding to compress text
+
+#Particular Objectives:
+
+* Compress a .txt file and verify that the size with compression is smaller than the original.
+* Once compressed, decompress the file and see that it hasn't lost data.
+
+
 # Methodology
         BWT Algorithm Analysis: Study its operation and bottlenecks.
 
