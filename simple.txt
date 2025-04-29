@@ -1,0 +1,19 @@
+<html lang="en">
+ <head>
+  <meta http-equiv="X-Translated-By" content="Google">
+  <meta http-equiv="X-Translated-To" content="es">
+  <script type="text/javascript" src="https://www.gstatic.com/_/translate_http/_/js/k=translate_http.tr.es_419.oWRuf8apfPg.O/am=AAY/d=1/rs=AN8SPfqZ0eTek3rxdf5LDByVh3eU5wVC6w/m=corsproxy" data-sourceurl="https://sample-files.com/downloads/documents/txt/simple.txt"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+  <script type="text/javascript" src="https://www.gstatic.com/_/translate_http/_/js/k=translate_http.tr.es_419.oWRuf8apfPg.O/am=AAY/d=1/exm=corsproxy/ed=1/rs=AN8SPfqZ0eTek3rxdf5LDByVh3eU5wVC6w/m=phishing_protection" data-phishing-protection-enabled="false" data-forms-warning-enabled="true" data-source-url="https://sample-files.com/downloads/documents/txt/simple.txt"></script>
+  <meta name="robots" content="none">
+ </head>
+ <body>
+  <script type="text/javascript" src="https://www.gstatic.com/_/translate_http/_/js/k=translate_http.tr.es_419.oWRuf8apfPg.O/am=AAY/d=1/exm=corsproxy,phishing_protection/ed=1/rs=AN8SPfqZ0eTek3rxdf5LDByVh3eU5wVC6w/m=navigationui" data-environment="prod" data-proxy-url="https://sample--files-com.translate.goog" data-proxy-full-url="https://sample--files-com.translate.goog/downloads/documents/txt/simple.txt?_x_tr_sl=en&amp;_x_tr_tl=es&amp;_x_tr_hl=es&amp;_x_tr_pto=tc" data-source-url="https://sample-files.com/downloads/documents/txt/simple.txt" data-source-language="en" data-target-language="es" data-display-language="es" data-detected-source-language="" data-is-source-untranslated="false" data-source-untranslated-url="https://translate.google.com/website?sl=en&amp;tl=es&amp;hl=es&amp;client=srp&amp;u=https://sample-files.com/downloads/documents/txt/simple.txt&amp;anno=2" data-client="srp"></script>
+  <pre>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+This sample TXT file is provided by Sample-Files.com. Visit us for more sample files and resources.</pre>
+  <script>function gtElInit() {var lib = new google.translate.TranslateService();lib.translatePage('en', 'es', function () {});}</script>
+  <script src="https://translate.google.com/translate_a/element.js?cb=gtElInit&amp;hl=es&amp;client=wt_srp" type="text/javascript"></script>
+ </body>
+</html>
