@@ -39,5 +39,5 @@ Parallelize the BWT with Apply Move-to-Front and Huffman Encoding to compress te
 
     Environment: Linux.
 # How To execute it without installation:
-         you should start by cloning this repository: 
+        You should start by cloning this repository: https://github.com/lightning2901/txtiny-Burrows-wheeler-OpenMP-tool.git
          
