@@ -45,12 +45,16 @@ You should start by cloning the repository:
 
 git clone https://github.com/lightning2901/txtiny-Burrows-wheeler-OpenMP-tool.git
 
-# Compiling 
+# Compiling for the bwt_2.c using openmp flag
 gcc -O2 -fopenmp bwt_2.c -o bwt_suffix_array
 
 # Execution with various cores:
 export OMP_NUM_THREADS=4 #Example for 4 cores
+
+
 export OMP_DYNAMIC=TRUE #The system will use as many cores as are available
+
+
 export OMP_DYNAMIC=FALSE #For deactivating the previous instruction
 
 
